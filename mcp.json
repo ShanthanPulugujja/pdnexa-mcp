@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "pdnexa": {
+      "url": "https://adr-mcp.vercel.app/mcp"
+    }
+  }
+}
