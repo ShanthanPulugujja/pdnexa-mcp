@@ -1,7 +1,7 @@
 {
   "name": "pdnexa",
   "displayName": "pdnexa PDF",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Merge, split, extract, rotate, and compress PDFs with the pdnexa MCP server. Free to install. Free accounts can complete 3 jobs per UTC month.",
   "author": {
     "name": "pdnexa"
@@ -14,5 +14,5 @@
     "pdf",
     "pdnexa"
   ],
-  "logo": "assets/logo.svg"
+  "logo": "assets/logo.png"
 }
