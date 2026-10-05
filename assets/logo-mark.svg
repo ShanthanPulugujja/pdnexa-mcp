@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="pdnexa">
+  <defs>
+    <linearGradient id="stem" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#B794FF"/>
+      <stop offset="45%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="loop" x1="0.15" y1="0" x2="0.95" y2="1">
+      <stop offset="0%" stop-color="#7DD3FC"/>
+      <stop offset="40%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+  <rect x="286" y="214" width="168" height="596" rx="84" fill="url(#stem)"/>
+  <circle cx="560" cy="392" r="236" fill="none" stroke="url(#loop)" stroke-width="168" stroke-linecap="round"/>
+</svg>
